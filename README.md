@@ -10,7 +10,7 @@ Mist Public Repo is your access to all API related resources to your Mist Cloud 
 
 Here are the latest features on Mist Public:
 
-  - Websocket for GO: https://github.com/mistsys/websocket
+  - Websocket for GO - https://github.com/mistsys/websocket
   - gNXI & gRPC Interface Tools - https://github.com/mistsys/gnxi
   - Simple Netlink library for GO - https://github.com/mistsys/netlink
 
@@ -23,7 +23,7 @@ Here are the latest features on Mist Public:
 
 Mist has a number of tools for GO including:
 
-* Websocket for GO: https://github.com/mistsys/websocket
+* Websocket for GO - https://github.com/mistsys/websocket
 * Simple Netlink library for GO - https://github.com/mistsys/netlink
 * Integrating with tenable.io - https://github.com/mistsys/go-tenable
 
@@ -31,7 +31,7 @@ Mist has a number of tools for GO including:
 
 Mist has a number of tools for SDK including:
 
-* Android MistSDK: https://github.com/mistsys/mist-vble-android-sdk
+* Android MistSDK - https://github.com/mistsys/mist-vble-android-sdk
 * iOS vble MistSDK - https://github.com/mistsys/mist-vble-ios-sdk
 * iOS MistSDK - https://github.com/mistsys/mist-sdk-ios
 * iOS MistSDK dr - https://github.com/mistsys/mist-sdk-ios-dr
@@ -51,8 +51,8 @@ Mist is currently extended with the following plugins. Instructions on how to us
 Want to contribute? Great! Reach out to info@mist.com for any questions.
 
 ### Todos
- - Write MORE Tests
- - Add Night Mode
+ - Add more Mist tools
+ - Add more documentation
 
 ### Licensed by Mist
 ----
