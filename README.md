@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Mist Public Repo is your access to all API related resources to your Mist Cloud AI platform and a great place to stay connected for future updates.
+Mist Public Repo is your access to all API related resources to your Mist Cloud AI platform and a great place to stay connected for future updates. You are welcome to use any of these Mist tools for free and we welcome any feedback to make this repo better. If you would like to contribute to this repo please contact Mist thru our idea portal or send us an e-mail at info@mist.com
 
 # New Mist Features!
 
@@ -13,11 +13,6 @@ Here are the latest features on Mist Public:
   - Websocket for GO - https://github.com/mistsys/websocket
   - gNXI & gRPC Interface Tools - https://github.com/mistsys/gnxi
   - Simple Netlink library for GO - https://github.com/mistsys/netlink
-
-> You are welcome to use any of these Mist tools for free
-> and we welcome any feedback to make this repo better.
-> If you would like to contribute to this repo please contact
-> Mist thru our idea portal or send us an e-mail at info@mist.com
 
 ### GO
 
@@ -35,16 +30,6 @@ Mist has a number of tools for SDK including:
 * iOS vble MistSDK - https://github.com/mistsys/mist-vble-ios-sdk
 * iOS MistSDK - https://github.com/mistsys/mist-sdk-ios
 * iOS MistSDK dr - https://github.com/mistsys/mist-sdk-ios-dr
-
-### Plugins
-
-Mist is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| Github | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
 
 ### Development
 
