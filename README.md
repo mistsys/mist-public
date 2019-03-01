@@ -11,6 +11,7 @@ Mist Public Repo is your access to all API related resources to your Mist Cloud 
 Here are the latest/most recently updated features on Mist Public:
 
 * Packet Processing - https://github.com/mistsys/gopacket
+* Quark tool - https://github.com/mistsys/quark
 * Websocket - https://github.com/mistsys/websocket
 * YANG modules - https://github.com/mistsys/yang
 
@@ -45,13 +46,14 @@ Mist has a number of tools for SDK including:
 
 ### Misc tools
 
-Mist has a number of tools for misc tools including:
+Mist has a number of misc tools including:
 
 * AWS-vault-like tool for Okta auth - https://github.com/mistsys/aws-okta
 * Drawer Controller - https://github.com/mistsys/DrawerController
 * Gate SSO platform - https://github.com/mistsys/gate
 * gNXI/gRPS Tools - https://github.com/mistsys/gnxi
 * Performance analysis tools - https://github.com/mistsys/sarama-consumer
+* Quark tool - https://github.com/mistsys/quark
 * Kafka consumer-group client - https://github.com/mistsys/perf-tools
 * Simple heatmap plugin for Leaflet - https://github.com/mistsys/Leaflet.heat
 * YANG modules - https://github.com/mistsys/yang
@@ -70,7 +72,6 @@ Want to contribute? Great! Reach out to info@mist.com for any questions.
 
 **Mist Free Software is AWESOME!**
 
-   [dill]: <https://github.com/joemccann/dillinger>
    [git-repo-url]: <https://github.com/joemccann/dillinger.git>
    [john gruber]: <http://daringfireball.net>
    [df1]: <http://daringfireball.net/projects/markdown/>
@@ -83,10 +84,3 @@ Want to contribute? Great! Reach out to info@mist.com for any questions.
    [express]: <http://expressjs.com>
    [AngularJS]: <http://angularjs.org>
    [Gulp]: <http://gulpjs.com>
-
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
