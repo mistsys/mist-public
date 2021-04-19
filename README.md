@@ -44,7 +44,6 @@ Mist has a number of tools for GO including:
 * MailGunAPI - https://github.com/mistsys/mailgun-go
 * NameCheapAPI - https://github.com/mistsys/go-namecheap
 * Netlink library - https://github.com/mistsys/netlink
-* Packet Processing - https://github.com/mistsys/gopacket
 * Simple Go / YAML-based task runner - https://github.com/mistsys/robo
 * Websocket - https://github.com/mistsys/websocket
 
