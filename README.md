@@ -6,6 +6,26 @@
 
 Mist Public Repo is your access to all API related resources to your Mist Cloud AI platform and a great place to stay connected for future updates. You are welcome to use any of these Mist tools for free and we welcome any feedback to make this repo better. If you would like to contribute to this repo please contact Mist thru our idea portal or send us an e-mail at info@mist.com
 
+
+# Mist Postman Collection
+
+This postman collection is designed to get you started consuming Mist APIs by using Postman.
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.postman.co/run-collection/224925-9e18908e-6b2b-49b6-81a1-b44dd0a91814?action=collection%2Ffork&collection-url=entityId%3D224925-9e18908e-6b2b-49b6-81a1-b44dd0a91814%26entityType%3Dcollection)
+
+# Mist Postman Runner Collection:
+This collection is designed to take common operational tasks and automate them leveraging the Mist API.  From bulk creating sites, assigning inventory, to upgrading APs or making changes across hundreds of sites, this collection helps automate those tasks.
+
+* https://github.com/Mist-Automation-Programmability/mist_runner_collection
+
+
+
+# MistAI
+
+Mist has a number of tools for our AI including:
+
+* MistAI Course Scripts - https://github.com/mistsys/AI_Course_Scripts
+
 # Recently Updated Mist Features!
 
 Here are the latest/most recently updated features on Mist Public:
@@ -14,12 +34,6 @@ Here are the latest/most recently updated features on Mist Public:
 * Quark tool - https://github.com/mistsys/quark
 * Websocket - https://github.com/mistsys/websocket
 * YANG modules - https://github.com/mistsys/yang
-
-### MistAI
-
-Mist has a number of tools for our AI including:
-
-* MistAI Course Scripts - https://github.com/mistsys/AI_Course_Scripts
 
 ### GO
 
