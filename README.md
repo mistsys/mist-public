@@ -26,6 +26,11 @@ Mist has a number of tools for our AI including:
 
 * MistAI Course Scripts - https://github.com/mistsys/AI_Course_Scripts
 
+# API Cookbook
+Need some language-neutral examples of tasks with APIs? Check out the API Cookbook where we show examples of how to perform configurations with the API.
+https://github.com/Mist-Automation-Programmability/Mist-API-Cookbook
+
+
 # Example Development Projects:
 
 * Switch Operator: https://switch.mist-lab.fr/login - https://github.com/tmunzer/mist_psk
