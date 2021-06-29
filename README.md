@@ -26,6 +26,12 @@ Mist has a number of tools for our AI including:
 
 * MistAI Course Scripts - https://github.com/mistsys/AI_Course_Scripts
 
+# Example Development Projects:
+
+* Switch Operator: https://switch.mist-lab.fr/login - https://github.com/tmunzer/mist_psk
+* PPSK Manager: https://psk.mist-lab.fr/login - https://github.com/tmunzer/mist_switch_operator
+
+
 # Recently Updated Mist Features!
 
 Here are the latest/most recently updated features on Mist Public:
